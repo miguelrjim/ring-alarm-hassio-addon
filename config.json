@@ -21,7 +21,7 @@
     "mqtt_pass": "",
     "ring_user": "ring_email",
     "ring_pass": "ring_password",
-    "refreshToken": "ring_refreshToken"
+    "refresh_token": "ring_refreshToken"
   },
   "schema": {
    "host": "str",
@@ -32,6 +32,6 @@
     "mqtt_pass": "str",
     "ring_user": "str?",
     "ring_pass": "str?",
-    "refreshToken": "str?"
+    "refresh_token": "str?"
   }
 }
